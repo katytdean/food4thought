@@ -27,7 +27,7 @@ if(isset($_POST['but_submit'])){
 
 }
 ?>
-html>
+<html>
     <head>
         <title>Create simple login page with PHP and MySQL</title>
         <link href="style.css" rel="stylesheet" type="text/css">
@@ -51,37 +51,3 @@ html>
         </div>
     </body>
 </html>
-
-
-<!doctype html>
-
-<html lang="en">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="utf-8">
-
-  <title>Leeds Food 4 thought </title>
-  <meta name="description" content="food for thought">
-  <meta name="author" content="Katy Dean">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
-  <link rel="stylesheet" href="styles.css">
-  <script src="./topnav.js"></script>
-</head>
-
-<body>
-    
-    <!-- Copy this to all pages -->
-     
-      <a href="./login.html">log in</a>
-    
-      </a>
-    </div>
-    <!-- Copy this to all pages -->
-
-<center> <h1> username: </h1> </center>
-<center> <center> <input type="text" name="fullname" /> </center>
-<center> <h1> password: </h1> </center>
-<center> <input type="text" name="fullname" /> </center>
-<center> <button> log in </button> </center>
